@@ -7,18 +7,25 @@ P.S. I have many talens and skills and programming is just the newest addition.<
 
 <h4>My stack currently consists of:</h4>
 <ul>
-<li>HTML5</li>
-<li>CSS3, Bootstrap</li>
-<li>JavaScript (ES6)</li>
-<li>jQuery</li>
-<li>Node.js</li>
-<li>Express.js</li>
-<li>Web API's</li>
-<li>Git and GitHub</li>
-<li>EJS</li>
-<li>SQL, MongoDB, Mongoose</li>
-<li>RESTful API</li>
-<li>Passport.js</li>
-<li>React.js</li>
-<li>Material UI</li>
+  <li>HTML5</li>
+  <li>CSS3
+    <ul>
+      <li>SCSS</li>
+      <li>Bootstrap</li>
+      <li>Bulma</li>
+      <li>Milligram</li>
+    </ul>
+ </li>
+  <li>JavaScript (ES6)</li>
+  <li>jQuery</li>
+  <li>Node.js</li>
+  <li>Express.js</li>
+  <li>Web API's</li>
+  <li>Git and GitHub</li>
+  <li>EJS</li>
+  <li>SQL, MongoDB, Mongoose</li>
+  <li>RESTful API</li>
+  <li>Passport.js</li>
+  <li>React.js</li>
+  <li>Material UI</li>
 </ul>
