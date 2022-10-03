@@ -5,7 +5,7 @@
 <p>If you are looking for a new addition to your team, feel free to contact me at <a href="mailto:darius.andrijauskas@gmail.com">my gMail</a> or <a href="https://www.linkedin.com/in/darius-andrijauskas/">my LinkedIn</a>.<br>
 P.S. I have many talens and skills and programming is just the newest addition.</p>
 
-<h4>My stack currently consists of:</h4>
+<h4>My current stack:</h4>
 <ul>
   <li>Git</li>
   <li>HTML5</li>
