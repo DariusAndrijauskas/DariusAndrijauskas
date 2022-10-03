@@ -16,7 +16,7 @@ P.S. I have many talens and skills and programming is just the newest addition.<
       <li>Milligram</li>
     </ul>
   </li>
-  <li>JavaScript (ES6)</li>
+  <li>JavaScript (ES6)
     <ul>
       <li>TypeScript</li>
       <li>React.js</li>
@@ -29,15 +29,23 @@ P.S. I have many talens and skills and programming is just the newest addition.<
       <li>Jest</li>
       <li>Material UI</li>
     </ul>
+  </li>
   <li>Git and GitHub</li>
+  <li>NoSQL
+    <ul>
+      <li>MongoDB</li>
+      <li>Mongoose</li>
+    </ul>
+  </li>
+  <li> SQL DB
+    <ul>
+      <li>MS Access</li>
+    </ul>
+  </li>
+  
+</ul>
   <li>
     <ul>
       <li></li>
     </ul>
   </li>
-  <li>SQL, MongoDB, Mongoose</li>
-  <li>RESTful API</li>
-  <li>Passport.js</li>
-  <li>React.js</li>
-  <li>Material UI</li>
-</ul>
