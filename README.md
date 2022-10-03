@@ -7,6 +7,7 @@ P.S. I have many talens and skills and programming is just the newest addition.<
 
 <h4>My stack currently consists of:</h4>
 <ul>
+  <li>Git</li>
   <li>HTML5</li>
   <li>CSS3
     <ul>
@@ -30,7 +31,6 @@ P.S. I have many talens and skills and programming is just the newest addition.<
       <li>Material UI</li>
     </ul>
   </li>
-  <li>Git and GitHub</li>
   <li>NoSQL
     <ul>
       <li>MongoDB</li>
@@ -42,10 +42,4 @@ P.S. I have many talens and skills and programming is just the newest addition.<
       <li>MS Access</li>
     </ul>
   </li>
-  
 </ul>
-  <li>
-    <ul>
-      <li></li>
-    </ul>
-  </li>
