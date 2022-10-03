@@ -21,7 +21,7 @@ P.S. I have many talens and skills and programming is just the newest addition.<
     <ul>
       <li>TypeScript</li>
       <li>React.js</li>
-      <li>Redux</li>  
+      <li>Redux.js</li>  
       <li>Node.js</li>
       <li>Express.js</li>
       <li>RESTful API</li>
