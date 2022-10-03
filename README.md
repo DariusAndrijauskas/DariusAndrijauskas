@@ -15,14 +15,26 @@ P.S. I have many talens and skills and programming is just the newest addition.<
       <li>Bulma</li>
       <li>Milligram</li>
     </ul>
- </li>
+  </li>
   <li>JavaScript (ES6)</li>
-  <li>jQuery</li>
-  <li>Node.js</li>
-  <li>Express.js</li>
-  <li>Web API's</li>
+    <ul>
+      <li>TypeScript</li>
+      <li>React.js</li>
+      <li>Redux</li>  
+      <li>Node.js</li>
+      <li>Express.js</li>
+      <li>RESTful API</li>
+      <li>Socket.io</li>
+      <li>Passport.js</li>
+      <li>Jest</li>
+      <li>Material UI</li>
+    </ul>
   <li>Git and GitHub</li>
-  <li>EJS</li>
+  <li>
+    <ul>
+      <li></li>
+    </ul>
+  </li>
   <li>SQL, MongoDB, Mongoose</li>
   <li>RESTful API</li>
   <li>Passport.js</li>
