@@ -1,6 +1,6 @@
 <h3>Hi, I’m @DariusAndrijauskas,</h3>
 
-<p>All my life I was fascinated with computer science and information technology. It was always a big part of my life, from programming with Pascal way back in high school, to C and SQL in university, even programmed a DSP processor with low level C for my masters thesis project. So, I made the big leap! Finished Code Academy’s “TypeScript” course on Full-Stack Web Development and now I'm looking for opportunities to apply my new skills.</p>
+<p>All my life I was fascinated with computer science and attracted to information technology. It was always a big part of my life, from programming club in high school, various courses in university, to programming a DSP processor with low level C for my master’s degree final thesis project. So, finally, I made the big leap, finished Code Academy’s “TypeScript” course on Full-Stack Web Development with flying colors and now I’m looking for opportunities to apply my new skills.</p>
 
 <p>If you are looking for a new addition to your team, feel free to contact me at <a href="mailto:darius.andrijauskas@gmail.com">my gMail</a> or <a href="https://www.linkedin.com/in/darius-andrijauskas/">my LinkedIn</a>.<br>
 P.S. I have many talens and skills and programming is just the newest addition.</p>
