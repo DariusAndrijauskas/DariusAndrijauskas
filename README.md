@@ -25,7 +25,6 @@ P.S. I have many talens and skills and programming is just the newest addition.<
       <li>RTK Query</li>  
       <li>Node.js</li>
       <li>Express.js</li>
-      <li>RESTful API</li>
       <li>Socket.io</li>
       <li>Passport.js</li>
       <li>Material UI</li>
